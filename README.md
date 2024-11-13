@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I'm an avid gamer and movie enthusiast! I love playing survival games like *V Rising*, and when I'm not gaming, you'll find me watching movies. My favorite genre is horror, and I'm always up for a good debate about which movie is the best — *Se7en* is a strong contender for that title!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://www.linkedin.com/in/paulo-soares-8374ba229/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
