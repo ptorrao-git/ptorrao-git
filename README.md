@@ -1,3 +1,4 @@
+![ptorrao--1722426470](https://github.com/user-attachments/assets/33f66258-69e6-48f1-a55e-651dfa1382c9)
 <h1 align="center">Hi 👋, I'm Paulo Soares</h1>
 <h3 align="center">I'm a passionate programmer currently studying at 42 School, a unique and innovative coding institution. I'm always learning and building projects, constantly growing my skills in software development and problem-solving.</h3>
 
