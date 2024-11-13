@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xQET95fVKI9rGBTH3GgO3ECKLkKrjLru/view?usp=drive_link](https://drive.google.com/file/d/1xQET95fVKI9rGBTH3GgO3ECKLkKrjLru/view?usp=drive_link)
 
-- ⚡ Fun fact: **I'm an avid gamer and movie enthusiast! I love playing strategy games like *V Rising*, and when I'm not gaming, you'll find me watching movies. My favorite genre is horror, and I'm always up for a good debate about which movie is the best — *Se7en* is a strong contender for that title!**
+- ⚡ Fun fact: **I'm an avid gamer and movie enthusiast! I love playing survival games like *V Rising*, and when I'm not gaming, you'll find me watching movies. My favorite genre is horror, and I'm always up for a good debate about which movie is the best — *Se7en* is a strong contender for that title!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
