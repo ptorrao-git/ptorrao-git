@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences with my [**resume**](https://drive.google.com/file/d/1xQET95fVKI9rGBTH3GgO3ECKLkKrjLru/view?usp=drive_link)
 
-- ⚡ Fun fact: **I'm an avid gamer and movie enthusiast! I love playing survival games like *V Rising*, and when I'm not gaming, you'll find me watching movies. My favorite genre is horror, and I'm always up for a good debate about which movie is the best — *Se7en* is a strong contender for that title!**
+- ⚡ Fun fact: **I'm an avid gamer and movie enthusiast! I love playing survival games like *V Rising*, and when I'm not gaming, you'll find me watching movies. My favorite genre is horror, and I'm always up for a good debate about which movie is the best — *Smile* is a strong contender for that title!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/paulo-soares-8374ba229/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bash" width="40" height="40"/> </a>
