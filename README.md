@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Soares</h1>
 <h3 align="center">I'm a passionate programmer currently studying at 42 School, a unique and innovative coding institution. I'm always learning and building projects, constantly growing my skills in software development and problem-solving.</h3>
 
-- 🔭 I’m currently working on **Minishell (42 School Project)**
+- 🔭 I’m currently working on **webserv (42 School Project)**
 
 - 🌱 I’m currently learning **C, C++, Godot and Unity**
 
